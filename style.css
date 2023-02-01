@@ -17,13 +17,13 @@ div.hero div.container-fluid input{
 
 }
 div.text div.container-fluid{
-  background-color: #9AEDFF;
+  font-family: Arial, Helvetica, sans-serif;
   margin-top: 40px;
 }
 div.produk div.container-fluid{
    display: flex;
-   justify-content: flex-start;
-   flex-wrap: wrap;
+   justify-content: space-between;
+   flex-wrap: wrap; 
    margin-top: 5px;
 
 }
